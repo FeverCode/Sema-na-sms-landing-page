@@ -211,7 +211,7 @@ header .row {
     color: #ffffff;
 }
 
-.header-style2 li a:before {
+/* .header-style2 li a:before {
     content: "\f111";
     font-size: 6px;
     color: #959595;
@@ -219,7 +219,7 @@ header .row {
     right: -23px;
     position: absolute;
     top: -1px
-}
+} */
 
 .header-style2 li:last-child a:before {
     display: none;
